@@ -343,7 +343,7 @@ git switch -c study/eino-examples
 
 不需要先成为 Go 专家，但如果看不懂泛型输入输出或 channel，后面的 Compose 和 Stream 会比较吃力。
 
-### 3.3 阶段 1：Message、Prompt 与 Lambda
+### 3.3 阶段 1：Message、Prompt 与 Lambda  11
 
 按顺序运行：
 
